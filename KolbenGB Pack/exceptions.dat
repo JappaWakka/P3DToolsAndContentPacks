@@ -1,0 +1,182 @@
+[Water Animation Speed]
+waterspeed|5
+
+[Pokemon Icons]
+GUI\PokemonMenu\Gen1|0.5
+GUI\PokemonMenu\Gen2|0.5
+GUI\PokemonMenu\Unown|0.5
+
+[Red's Team]
+Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
+Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
+Textures\Portraits|64,0,32,32|Textures\Portraits|48,0,24,24
+Textures\Portraits|96,0,32,32|Textures\Portraits|72,0,24,24
+Textures\Portraits|128,0,32,32|Textures\Portraits|96,0,24,24
+Textures\Portraits|160,0,32,32|Textures\Portraits|120,0,24,24
+Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
+
+[Blue's Team]
+Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
+Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
+Textures\Portraits|64,0,32,32|Textures\Portraits|48,0,24,24
+Textures\Portraits|96,0,32,32|Textures\Portraits|72,0,24,24
+Textures\Portraits|128,0,32,32|Textures\Portraits|96,0,24,24
+Textures\Portraits|160,0,32,32|Textures\Portraits|120,0,24,24
+Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
+
+[Lance's Team]
+Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
+Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
+Textures\Portraits|64,0,32,32|Textures\Portraits|48,0,24,24
+Textures\Portraits|96,0,32,32|Textures\Portraits|72,0,24,24
+Textures\Portraits|128,0,32,32|Textures\Portraits|96,0,24,24
+Textures\Portraits|160,0,32,32|Textures\Portraits|120,0,24,24
+Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
+
+[Backdrop Water]
+Textures\Backdrops\Water|0,0,64,64|Textures\Backdrops\Water|0,0,16,16
+Textures\Backdrops\Water|64,0,64,64|Textures\Backdrops\Water|16,0,16,16
+Textures\Backdrops\Water|128,0,64,64|Textures\Backdrops\Water|32,0,16,16
+
+[Regular Water - Generic]
+Textures\Routes|0,220,20,20|Textures\Water|0,0,16,16
+Textures\Routes|20,220,20,20|Textures\Water|16,0,16,16
+Textures\Routes|40,220,20,20|Textures\Water|32,0,16,16
+Textures\Routes|60,220,20,20|Textures\Water|48,0,16,16
+Textures\Routes|80,220,20,20|Textures\Water|64,0,16,16
+Textures\Routes|100,220,20,20|Textures\Water|80,0,16,16
+Textures\Routes|120,220,20,20|Textures\Water|96,0,16,16
+Textures\Routes|140,220,20,20|Textures\Water|112,0,16,16
+Textures\Routes|160,220,20,20|Textures\Water|128,0,16,16
+Textures\Routes|180,220,20,20|Textures\Water|144,0,16,16
+Textures\Routes|200,220,20,20|Textures\Water|160,0,16,16
+Textures\Routes|220,220,20,20|Textures\Water|176,0,16,16
+
+Textures\Routes|0,220,20,20|Textures\Water|0,0,16,16
+
+[Regular Water - Underwater Cave]
+Textures\UnderwaterCave|0,68,20,20|Textures\Water|0,0,16,16
+Textures\UnderwaterCave|20,68,20,20|Textures\Water|16,0,16,16
+Textures\UnderwaterCave|40,68,20,20|Textures\Water|32,0,16,16
+Textures\UnderwaterCave|60,68,20,20|Textures\Water|48,0,16,16
+Textures\UnderwaterCave|80,68,20,20|Textures\Water|64,0,16,16
+Textures\UnderwaterCave|100,68,20,20|Textures\Water|80,0,16,16
+Textures\UnderwaterCave|120,68,20,20|Textures\Water|96,0,16,16
+Textures\UnderwaterCave|140,68,20,20|Textures\Water|112,0,16,16
+Textures\UnderwaterCave|160,68,20,20|Textures\Water|128,0,16,16
+Textures\UnderwaterCave|180,68,20,20|Textures\Water|144,0,16,16
+Textures\UnderwaterCave|200,68,20,20|Textures\Water|160,0,16,16
+Textures\UnderwaterCave|220,68,20,20|Textures\Water|176,0,16,16
+
+Textures\UnderwaterCave|0,16,16,16|Textures\Water|0,0,16,16
+
+[Old Water - Generic]
+Textures\Routes|0,240,20,20|Textures\Water|0,0,16,16
+Textures\Routes|20,240,20,20|Textures\Water|16,0,16,16
+Textures\Routes|40,240,20,20|Textures\Water|32,0,16,16
+Textures\Routes|60,240,20,20|Textures\Water|48,0,16,16
+Textures\Routes|80,240,20,20|Textures\Water|64,0,16,16
+Textures\Routes|100,240,20,20|Textures\Water|80,0,16,16
+Textures\Routes|120,240,20,20|Textures\Water|96,0,16,16
+Textures\Routes|140,240,20,20|Textures\Water|112,0,16,16
+Textures\Routes|160,240,20,20|Textures\Water|128,0,16,16
+Textures\Routes|180,240,20,20|Textures\Water|144,0,16,16
+Textures\Routes|200,240,20,20|Textures\Water|160,0,16,16
+Textures\Routes|220,240,20,20|Textures\Water|176,0,16,16
+
+[Old Water - Underwater Cave]
+Textures\UnderwaterCave|0,48,16,16|Textures\Water|0,0,16,16
+Textures\UnderwaterCave|20,48,16,16|Textures\Water|16,0,16,16
+Textures\UnderwaterCave|40,48,16,16|Textures\Water|32,0,16,16
+Textures\UnderwaterCave|60,48,16,16|Textures\Water|48,0,16,16
+Textures\UnderwaterCave|80,48,16,16|Textures\Water|64,0,16,16
+Textures\UnderwaterCave|100,48,16,16|Textures\Water|80,0,16,16
+Textures\UnderwaterCave|120,48,16,16|Textures\Water|96,0,16,16
+Textures\UnderwaterCave|140,48,16,16|Textures\Water|112,0,16,16
+Textures\UnderwaterCave|160,48,16,16|Textures\Water|128,0,16,16
+Textures\UnderwaterCave|180,48,16,16|Textures\Water|144,0,16,16
+Textures\UnderwaterCave|200,48,16,16|Textures\Water|160,0,16,16
+Textures\UnderwaterCave|220,48,16,16|Textures\Water|176,0,16,16
+
+[Whirlpool]
+Textures\Routes|0,176,16,16|Textures\Water|0,0,16,16
+Textures\Routes|16,176,16,16|Textures\Water|16,0,16,16
+Textures\Routes|32,176,16,16|Textures\Water|32,0,16,16
+Textures\Routes|48,176,16,16|Textures\Water|48,0,16,16
+
+[Waterfall]
+Textures\Routes|208,160,16,16|Textures\Waterfall|0,0,16,16
+Textures\Routes|80,176,16,16|Textures\Waterfall|16,0,16,16
+Textures\Routes|96,176,16,16|Textures\Waterfall|32,0,16,16
+Textures\Routes|112,176,16,16|Textures\Waterfall|0,0,16,16
+Textures\Routes|128,176,16,16|Textures\Waterfall|16,0,16,16
+Textures\Routes|144,176,16,16|Textures\Waterfall|32,0,16,16
+Textures\Routes|160,176,16,16|Textures\Waterfall|0,0,16,16
+Textures\Routes|176,176,16,16|Textures\Waterfall|16,0,16,16
+Textures\Routes|192,176,16,16|Textures\Waterfall|32,0,16,16
+
+Textures\Routes|0,192,16,16|Textures\Waterfall|0,0,16,16
+Textures\Routes|16,192,16,16|Textures\Waterfall|16,0,16,16
+Textures\Routes|32,192,16,16|Textures\Waterfall|32,0,16,16
+
+Textures\UnderwaterCave|0,32,16,16|Textures\Waterfall|0,0,16,16
+Textures\UnderwaterCave|16,32,16,16|Textures\Waterfall|16,0,16,16
+Textures\UnderwaterCave|32,32,16,16|Textures\Waterfall|32,0,16,16
+
+[Lava - Dark]
+Textures\UnderwaterCave|0,88,20,20|Textures\Lava_Dark|0,0,16,16
+Textures\UnderwaterCave|20,88,20,20|Textures\Lava_Dark|16,0,16,16
+Textures\UnderwaterCave|40,88,20,20|Textures\Lava_Dark|32,0,16,16
+Textures\UnderwaterCave|60,88,20,20|Textures\Lava_Dark|48,0,16,16
+Textures\UnderwaterCave|80,88,20,20|Textures\Lava_Dark|64,0,16,16
+Textures\UnderwaterCave|100,88,20,20|Textures\Lava_Dark|80,0,16,16
+Textures\UnderwaterCave|120,88,20,20|Textures\Lava_Dark|96,0,16,16
+Textures\UnderwaterCave|140,88,20,20|Textures\Lava_Dark|112,0,16,16
+Textures\UnderwaterCave|160,88,20,20|Textures\Lava_Dark|128,0,16,16
+Textures\UnderwaterCave|180,88,20,20|Textures\Lava_Dark|144,0,16,16
+Textures\UnderwaterCave|200,88,20,20|Textures\Lava_Dark|160,0,16,16
+Textures\UnderwaterCave|220,88,20,20|Textures\Lava_Dark|176,0,16,16
+
+[Lava - Bright]
+Textures\UnderwaterCave|0,108,20,20|Textures\Lava_Bright|0,0,16,16
+Textures\UnderwaterCave|20,108,20,20|Textures\Lava_Bright|16,0,16,16
+Textures\UnderwaterCave|40,108,20,20|Textures\Lava_Bright|32,0,16,16
+Textures\UnderwaterCave|60,108,20,20|Textures\Lava_Bright|48,0,16,16
+Textures\UnderwaterCave|80,108,20,20|Textures\Lava_Bright|64,0,16,16
+Textures\UnderwaterCave|100,108,20,20|Textures\Lava_Bright|80,0,16,16
+Textures\UnderwaterCave|120,108,20,20|Textures\Lava_Bright|96,0,16,16
+Textures\UnderwaterCave|140,108,20,20|Textures\Lava_Bright|112,0,16,16
+Textures\UnderwaterCave|160,108,20,20|Textures\Lava_Bright|128,0,16,16
+Textures\UnderwaterCave|180,108,20,20|Textures\Lava_Bright|144,0,16,16
+Textures\UnderwaterCave|200,108,20,20|Textures\Lava_Bright|160,0,16,16
+Textures\UnderwaterCave|220,108,20,20|Textures\Lava_Bright|176,0,16,16
+
+[Regular Sign]
+Textures\Routes|48,32,16,16|Textures\Routes|48,32,4,16
+
+[Center & Mart Sign]
+Textures\Cherrygrove|32,32,16,16|Textures\Cherrygrove|32,32,4,16
+
+[Gray Fence]
+Textures\Routes|128,32,16,16|Textures\Routes|112,32,8,16
+
+[Brown Fence]
+Textures\Routes|112,144,6,16|Textures\Routes|112,144,5,16
+Textures\Routes|128,144,16,16|Textures\Routes|112,144,5,16
+
+[Ledges & Watersides]
+Textures\Routes|144,16,16,16|Textures\Routes|144,16,16,6
+Textures\Routes|160,144,16,16|Textures\Routes|144,21,16,6
+Textures\UnderwaterCave|48,0,16,16|Textures\UnderwaterCave|48,0,16,6
+Textures\BlackThorn|0,16,16,16|Textures\BlackThorn|0,16,16,6
+
+[PokéMart Displays]
+Textures\Mart|96,64,16,8|Textures\Mart|96,64,16,12
+Textures\Mart|96,72,16,4|Textures\Mart|96,60,16,4
+
+[PokéCenter Seats]
+Textures\Center|80,48,16,16|Textures\Center|80,48,16,4
+Textures\Center|112,48,16,16|Textures\Center|112,48,16,4
+
+[PokéCenter Tables]
+Textures\Center|48,48,16,16|Textures\Center|48,48,16,6
