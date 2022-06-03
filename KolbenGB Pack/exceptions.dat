@@ -1,6 +1,9 @@
 [Water Animation Speed]
 waterspeed|5
 
+[Badges]
+GUI\Badges|0.5
+
 [Pokemon Icons]
 GUI\PokemonMenu\Gen1|0.5
 GUI\PokemonMenu\Gen2|0.5
