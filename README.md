@@ -7,7 +7,7 @@
 * **GameBoyPack_Music** Better quality GBC-style Music for Pokémon 3D v0.59
 * **GameBoyPack_SoundEffects** Better quality GBC-style SFX for Pokémon 3D v0.59
 * **HighQualityCries** High quality Pokémon Cries for Pokémon 3D v0.59
-* **HGSSMusicPack** HGSS, XY and Mystery Dungeon Music for Pokémon 3D v0.59
+* **HGSSMusicPack** Music & Sound Effects from HGSS, XY, MD and FRLG
 
 ## Previews of ContentPack *GameBoyPack_Textures*:
 ![PokeCenter](https://user-images.githubusercontent.com/31563291/166961748-bd343fcf-4e2d-4321-904d-0115e6795d11.png)
