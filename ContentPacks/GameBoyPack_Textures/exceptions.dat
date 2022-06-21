@@ -9,7 +9,7 @@ GUI\PokemonMenu\Gen1|0.5
 GUI\PokemonMenu\Gen2|0.5
 GUI\PokemonMenu\Unown|0.5
 
-[Red'sTeam]
+[RedsTeam]
 Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
 Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
 Textures\Portraits|64,0,32,32|Textures\Portraits|48,0,24,24
@@ -18,7 +18,7 @@ Textures\Portraits|128,0,32,32|Textures\Portraits|96,0,24,24
 Textures\Portraits|160,0,32,32|Textures\Portraits|120,0,24,24
 Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
 
-[Blue'sTeam]
+[BluesTeam]
 Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
 Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
 Textures\Portraits|64,0,32,32|Textures\Portraits|48,0,24,24
@@ -39,7 +39,7 @@ Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
 [BackdropWater]
 Textures\Backdrops\Water|0.25
 
-[RegularWater-Generic]
+[RegularWater_Generic]
 Textures\Routes|0,220,20,20|Textures\Routes|0,240,16,16
 Textures\Routes|20,220,20,20|Textures\Routes|16,240,16,16
 Textures\Routes|40,220,20,20|Textures\Routes|32,240,16,16
@@ -53,7 +53,7 @@ Textures\Routes|180,220,20,20|Textures\Routes|144,240,16,16
 Textures\Routes|200,220,20,20|Textures\Routes|160,240,16,16
 Textures\Routes|220,220,20,20|Textures\Routes|176,240,16,16
 
-[RegularWater-UnderwaterCave]
+[RegularWater_UnderwaterCave]
 Textures\UnderwaterCave|0,68,20,20|Textures\UnderwaterCave|0,48,16,16
 Textures\UnderwaterCave|20,68,20,20|Textures\UnderwaterCave|16,48,16,16
 Textures\UnderwaterCave|40,68,20,20|Textures\UnderwaterCave|32,48,16,16
@@ -67,7 +67,7 @@ Textures\UnderwaterCave|180,68,20,20|Textures\UnderwaterCave|144,48,16,16
 Textures\UnderwaterCave|200,68,20,20|Textures\UnderwaterCave|160,48,16,16
 Textures\UnderwaterCave|220,68,20,20|Textures\UnderwaterCave|176,48,16,16
 
-[OldWater-Generic]
+[OldWater_Generic]
 Textures\Routes|0,240,20,20|Textures\Routes|0,240,16,16
 Textures\Routes|20,240,20,20|Textures\Routes|16,240,16,16
 Textures\Routes|40,240,20,20|Textures\Routes|32,240,16,16
@@ -106,7 +106,7 @@ Textures\UnderwaterCave|0,32,16,16|Textures\Waterfall|0,0,16,16
 Textures\UnderwaterCave|16,32,16,16|Textures\Waterfall|16,0,16,16
 Textures\UnderwaterCave|32,32,16,16|Textures\Waterfall|32,0,16,16
 
-[Lava-Dark]
+[Lava_Dark]
 Textures\UnderwaterCave|0,88,20,20|Textures\Lava_Dark|0,0,16,16
 Textures\UnderwaterCave|20,88,20,20|Textures\Lava_Dark|16,0,16,16
 Textures\UnderwaterCave|40,88,20,20|Textures\Lava_Dark|32,0,16,16
@@ -120,7 +120,7 @@ Textures\UnderwaterCave|180,88,20,20|Textures\Lava_Dark|144,0,16,16
 Textures\UnderwaterCave|200,88,20,20|Textures\Lava_Dark|160,0,16,16
 Textures\UnderwaterCave|220,88,20,20|Textures\Lava_Dark|176,0,16,16
 
-[Lava-Bright]
+[Lava_Bright]
 Textures\UnderwaterCave|0,108,20,20|Textures\Lava_Bright|0,0,16,16
 Textures\UnderwaterCave|20,108,20,20|Textures\Lava_Bright|16,0,16,16
 Textures\UnderwaterCave|40,108,20,20|Textures\Lava_Bright|32,0,16,16
@@ -163,3 +163,7 @@ Textures\Center|112,48,16,16|Textures\Center|112,48,16,4
 
 [PokéCenterTables]
 Textures\Center|48,48,16,16|Textures\Center|48,48,16,6
+
+[BattleTower]
+Textures\battletower|128,112,48,16|Textures\BattleTower|128,112,32,16
+Textures\battletower|144,96,8,14|Textures\BattleTower|144,96,4,16
