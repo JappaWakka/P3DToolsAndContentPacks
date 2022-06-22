@@ -5,8 +5,7 @@
 ## ContentPacks
 * **GameBoyPack_Textures** Better quality GBC-style textures for Pokémon 3D v0.59
 * **GameBoyPack_Music** Better quality GBC-style Music for Pokémon 3D v0.59
-* **GameBoyPack_SoundEffects** Better quality GBC-style SFX for Pokémon 3D v0.59
-* **HighQualityCries** High quality Pokémon Cries for Pokémon 3D v0.59
+* **GameBoyPack_SoundEffects** Better quality GBC-style SFX & High Quality Cries for Pokémon 3D v0.59
 * **HGSSMusicPack** Music & Sound Effects from HGSS, XY, MD and FRLG
 
 ## Previews of ContentPack *GameBoyPack_Textures*:
