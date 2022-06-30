@@ -165,5 +165,5 @@ Textures\Center|112,48,16,16|Textures\Center|112,48,16,4
 Textures\Center|48,48,16,16|Textures\Center|48,48,16,6
 
 [BattleTower]
-Textures\battletower|128,112,48,16|Textures\BattleTower|128,112,32,16
-Textures\battletower|144,96,8,14|Textures\BattleTower|144,96,4,16
+Textures\BattleTower|128,112,48,16|Textures\BattleTower|128,112,32,16
+Textures\BattleTower|144,96,8,14|Textures\BattleTower|144,96,4,16
