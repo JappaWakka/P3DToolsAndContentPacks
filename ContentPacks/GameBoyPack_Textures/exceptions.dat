@@ -152,6 +152,7 @@ Textures\Routes|144,16,16,16|Textures\Routes|144,16,16,6
 Textures\Routes|144,16,4,16|Textures\Routes|144,16,6,6
 Textures\Routes|160,144,16,16|Textures\Routes|144,21,16,6
 Textures\UnderwaterCave|48,0,16,16|Textures\UnderwaterCave|48,0,16,6
+Textures\UnderwaterCave|48,0,4,16|Textures\UnderwaterCave|48,0,6,6
 Textures\BlackThorn|0,16,16,16|Textures\BlackThorn|0,16,16,6
 
 [PokéMartDisplays]
