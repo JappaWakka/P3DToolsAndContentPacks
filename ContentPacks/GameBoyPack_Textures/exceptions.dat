@@ -4,11 +4,6 @@ waterspeed|5
 [Badges]
 GUI\Badges|0.5
 
-[PokemonIcons]
-GUI\PokemonMenu\Gen1|0.5
-GUI\PokemonMenu\Gen2|0.5
-GUI\PokemonMenu\Unown|0.5
-
 [RedsTeam]
 Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
 Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
