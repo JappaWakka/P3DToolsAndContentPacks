@@ -1,5 +1,5 @@
 <NotepadPlus>
-    <UserLang name="Pokemon 3D Script" ext=".dat" udlVersion="2.1">
+    <UserLang name="Pokemon 3D Script" ext="dat" udlVersion="2.1">
         <Settings>
             <Global caseIgnored="yes" allowFoldOfComments="yes" foldCompact="yes" forcePureLC="0" decimalSeparator="0" />
             <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="yes" Keywords5="no" Keywords6="no" Keywords7="no" Keywords8="yes" />
@@ -15,8 +15,8 @@
             <Keywords name="Numbers, range"></Keywords>
             <Keywords name="Operators1">.</Keywords>
             <Keywords name="Operators2"></Keywords>
-            <Keywords name="Folders in code1, open">:if @Options :select</Keywords>
-            <Keywords name="Folders in code1, middle">:when :while</Keywords>
+            <Keywords name="Folders in code1, open">:if: @Options :select:</Keywords>
+            <Keywords name="Folders in code1, middle">:when: :while:</Keywords>
             <Keywords name="Folders in code1, close">:endif :endwhen :endwhen :endwhile</Keywords>
             <Keywords name="Folders in code2, open"></Keywords>
             <Keywords name="Folders in code2, middle"></Keywords>
