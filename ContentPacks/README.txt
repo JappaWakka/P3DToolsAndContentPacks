@@ -16,7 +16,7 @@ https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/hgss-v1/
 Downloadlinks for Development Tools released by JappaWakka:
 
 [Notepad++ Script & Map Syntax Syntax]
-https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/dev-tools/Notepad++.Script.Map.Syntax.zip
+https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/dev-tools-0.59.2/Notepad++.Script.Map.Syntax.zip
 
 [XNB Tools]
-https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/dev-tools/XNB.Tools.zip
+https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/dev-tools-0.59.2/XNB.Tools.zip
