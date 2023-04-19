@@ -31,8 +31,6 @@ Textures\Portraits|128,0,32,32|Textures\Portraits|96,0,24,24
 Textures\Portraits|160,0,32,32|Textures\Portraits|120,0,24,24
 Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
 
-[BackdropWater]
-Textures\Backdrops\Water|0.25
 
 [RegularWater_Generic]
 Textures\Routes|0,220,20,20|Textures\Routes|0,240,16,16
