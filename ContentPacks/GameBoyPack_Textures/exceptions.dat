@@ -129,6 +129,7 @@ Textures\UnderwaterCave|220,108,20,20|Textures\Lava_Bright|176,0,16,16
 
 [RegularSign]
 Textures\Routes|48,32,16,16|Textures\Routes|48,32,4,16
+Textures\Village|48,32,16,16|Textures\Village|48,32,4,16
 
 [Center&MartSign]
 Textures\Cherrygrove|32,32,16,16|Textures\Cherrygrove|32,32,4,16
@@ -162,3 +163,6 @@ Textures\Center|48,48,16,16|Textures\Center|48,48,16,6
 [BattleTower]
 Textures\BattleTower|128,112,48,16|Textures\BattleTower|128,112,32,16
 Textures\BattleTower|144,96,8,14|Textures\BattleTower|144,96,4,16
+
+[Park Obstacles]
+Textures\Park|0,24,16,6|Textures\Park|0,24,18,4
