@@ -22,7 +22,7 @@ Textures\Portraits|128,0,32,32|Textures\Portraits|96,0,24,24
 Textures\Portraits|160,0,32,32|Textures\Portraits|120,0,24,24
 Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
 
-[Lance'sTeam]
+[LancesTeam]
 Textures\Portraits|0,0,32,32|Textures\Portraits|0,0,24,24
 Textures\Portraits|32,0,32,32|Textures\Portraits|24,0,24,24
 Textures\Portraits|64,0,32,32|Textures\Portraits|48,0,24,24
@@ -142,12 +142,13 @@ Textures\Routes|112,144,6,16|Textures\Routes|112,144,5,16
 Textures\Routes|128,144,16,16|Textures\Routes|112,144,5,16
 
 [Ledges&Watersides]
-Textures\Routes|144,16,16,16|Textures\Routes|144,16,16,6
-Textures\Routes|144,16,4,16|Textures\Routes|144,16,6,6
-Textures\Routes|160,144,16,16|Textures\Routes|144,21,16,6
-Textures\UnderwaterCave|48,0,16,16|Textures\UnderwaterCave|48,0,16,6
-Textures\UnderwaterCave|48,0,4,16|Textures\UnderwaterCave|48,0,6,6
-Textures\BlackThorn|0,16,16,16|Textures\BlackThorn|0,16,16,6
+Textures\Routes|144,16,16,16|Textures\Routes|144,16,16,4
+Textures\Routes|144,16,4,16|Textures\Routes|144,16,6,4
+Textures\Routes|160,144,16,16|Textures\Routes|144,21,16,4
+Textures\UnderwaterCave|48,0,16,16|Textures\UnderwaterCave|48,0,16,4
+Textures\UnderwaterCave|48,0,4,16|Textures\UnderwaterCave|48,0,4,4
+Textures\BlackThorn|0,16,16,16|Textures\BlackThorn|0,16,16,4
+Textures\Mahogany|0,16,16,16|Textures\Mahogany|0,16,16,4
 
 [PokéMartDisplays]
 Textures\Mart|96,64,16,8|Textures\Mart|96,64,16,12
