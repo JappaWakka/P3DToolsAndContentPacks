@@ -7,7 +7,7 @@ https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/sfx-v2/G
 https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/music-v1/GameBoyPack_Music.zip
 
 [GameBoyPack_Textures]
-https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/textures-wip6/GameBoyPack_Textures.zip
+https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/textures-wip7/GameBoyPack_Textures.zip
 
 [HGSSMusicPack]
 https://github.com/JappaWakka/P3DToolsAndContentPacks/releases/download/hgss-v1/HGSSMusicPack.zip
