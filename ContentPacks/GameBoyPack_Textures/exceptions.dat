@@ -113,6 +113,19 @@ Textures\UnderwaterCave|180,88,20,20|Textures\Lava_Dark|144,0,16,16
 Textures\UnderwaterCave|200,88,20,20|Textures\Lava_Dark|160,0,16,16
 Textures\UnderwaterCave|220,88,20,20|Textures\Lava_Dark|176,0,16,16
 
+Textures\Safari|0,64,20,20|Textures\Lava_Dark|0,0,16,16
+Textures\Safari|20,64,20,20|Textures\Lava_Dark|16,0,16,16
+Textures\Safari|40,64,20,20|Textures\Lava_Dark|32,0,16,16
+Textures\Safari|60,64,20,20|Textures\Lava_Dark|48,0,16,16
+Textures\Safari|80,64,20,20|Textures\Lava_Dark|64,0,16,16
+Textures\Safari|100,64,20,20|Textures\Lava_Dark|80,0,16,16
+Textures\Safari|120,64,20,20|Textures\Lava_Dark|96,0,16,16
+Textures\Safari|140,64,20,20|Textures\Lava_Dark|112,0,16,16
+Textures\Safari|160,64,20,20|Textures\Lava_Dark|128,0,16,16
+Textures\Safari|180,64,20,20|Textures\Lava_Dark|144,0,16,16
+Textures\Safari|200,64,20,20|Textures\Lava_Dark|160,0,16,16
+Textures\Safari|220,64,20,20|Textures\Lava_Dark|176,0,16,16
+
 [Lava_Bright]
 Textures\UnderwaterCave|0,108,20,20|Textures\Lava_Bright|0,0,16,16
 Textures\UnderwaterCave|20,108,20,20|Textures\Lava_Bright|16,0,16,16
@@ -126,6 +139,19 @@ Textures\UnderwaterCave|160,108,20,20|Textures\Lava_Bright|128,0,16,16
 Textures\UnderwaterCave|180,108,20,20|Textures\Lava_Bright|144,0,16,16
 Textures\UnderwaterCave|200,108,20,20|Textures\Lava_Bright|160,0,16,16
 Textures\UnderwaterCave|220,108,20,20|Textures\Lava_Bright|176,0,16,16
+
+Textures\Safari|0,84,20,20|Textures\Lava_Bright|0,0,16,16
+Textures\Safari|20,84,20,20|Textures\Lava_Bright|16,0,16,16
+Textures\Safari|40,84,20,20|Textures\Lava_Bright|32,0,16,16
+Textures\Safari|60,84,20,20|Textures\Lava_Bright|48,0,16,16
+Textures\Safari|80,84,20,20|Textures\Lava_Bright|64,0,16,16
+Textures\Safari|100,84,20,20|Textures\Lava_Bright|80,0,16,16
+Textures\Safari|120,84,20,20|Textures\Lava_Bright|96,0,16,16
+Textures\Safari|140,84,20,20|Textures\Lava_Bright|112,0,16,16
+Textures\Safari|160,84,20,20|Textures\Lava_Bright|128,0,16,16
+Textures\Safari|180,84,20,20|Textures\Lava_Bright|144,0,16,16
+Textures\Safari|200,84,20,20|Textures\Lava_Bright|160,0,16,16
+Textures\Safari|220,84,20,20|Textures\Lava_Bright|176,0,16,16
 
 [RegularSign]
 Textures\Routes|48,32,16,16|Textures\Routes|48,32,4,16
@@ -149,6 +175,7 @@ Textures\UnderwaterCave|48,0,16,16|Textures\UnderwaterCave|48,0,16,4
 Textures\UnderwaterCave|48,0,4,16|Textures\UnderwaterCave|48,0,4,4
 Textures\BlackThorn|0,16,16,16|Textures\BlackThorn|0,16,16,4
 Textures\Mahogany|0,16,16,16|Textures\Mahogany|0,16,16,4
+Textures\Sevii|64,96,16,16|Textures\Sevii|64,96,16,4
 
 [PokéMartDisplays]
 Textures\Mart|96,64,16,8|Textures\Mart|96,64,16,12
