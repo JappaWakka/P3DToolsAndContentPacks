@@ -191,6 +191,7 @@ Textures\Center|48,48,16,16|Textures\Center|48,48,16,6
 [BattleTower]
 Textures\BattleTower|128,112,48,16|Textures\BattleTower|128,112,32,16
 Textures\BattleTower|144,96,8,14|Textures\BattleTower|144,96,4,16
+Textures\BattleTower|224,64,16,16|Textures\BattleTower|144,80,16,16
 
 [Park Obstacles]
 Textures\Park|0,24,16,6|Textures\Park|0,24,18,4
