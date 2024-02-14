@@ -1,3 +1,8 @@
+Pokémon Front/Back Sprites:
+	Nintendo/GameFreak
+	SoupPotato (aka SourApple)
+	Various PokeWilds Artists
+
 NPC Overworld Sprites:
 	Megaman-Omega:
 		Many of the overworld sprites from Pokémon Prism
