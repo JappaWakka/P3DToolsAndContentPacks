@@ -1,6 +1,7 @@
 Pokémon Front/Back Sprites:
 	Nintendo/GameFreak
 	SoupPotato (aka SourApple)
+	InternetGoblin
 	Various PokeWilds Artists
 
 NPC Overworld Sprites:
