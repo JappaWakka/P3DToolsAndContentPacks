@@ -33,18 +33,18 @@ Textures\Portraits|192,0,32,32|Textures\Portraits|144,0,24,24
 
 
 [RegularWater_Generic]
-Textures\Routes|0,220,20,20|Textures\Routes|0,240,16,16
-Textures\Routes|20,220,20,20|Textures\Routes|16,240,16,16
-Textures\Routes|40,220,20,20|Textures\Routes|32,240,16,16
-Textures\Routes|60,220,20,20|Textures\Routes|48,240,16,16
-Textures\Routes|80,220,20,20|Textures\Routes|64,240,16,16
-Textures\Routes|100,220,20,20|Textures\Routes|80,240,16,16
-Textures\Routes|120,220,20,20|Textures\Routes|96,240,16,16
-Textures\Routes|140,220,20,20|Textures\Routes|112,240,16,16
-Textures\Routes|160,220,20,20|Textures\Routes|128,240,16,16
-Textures\Routes|180,220,20,20|Textures\Routes|144,240,16,16
-Textures\Routes|200,220,20,20|Textures\Routes|160,240,16,16
-Textures\Routes|220,220,20,20|Textures\Routes|176,240,16,16
+Textures\Routes|0,220,20,20|Textures\Water|0,0,16,16
+Textures\Routes|20,220,20,20|Textures\Water|16,0,16,16
+Textures\Routes|40,220,20,20|Textures\Water|32,0,16,16
+Textures\Routes|60,220,20,20|Textures\Water|48,0,16,16
+Textures\Routes|80,220,20,20|Textures\Water|64,0,16,16
+Textures\Routes|100,220,20,20|Textures\Water|80,0,16,16
+Textures\Routes|120,220,20,20|Textures\Water|96,0,16,16
+Textures\Routes|140,220,20,20|Textures\Water|112,0,16,16
+Textures\Routes|160,220,20,20|Textures\Water|128,0,16,16
+Textures\Routes|180,220,20,20|Textures\Water|144,0,16,16
+Textures\Routes|200,220,20,20|Textures\Water|160,0,16,16
+Textures\Routes|220,220,20,20|Textures\Water|176,0,16,16
 
 [RegularWater_UnderwaterCave]
 Textures\UnderwaterCave|0,68,20,20|Textures\UnderwaterCave|0,48,16,16
@@ -61,18 +61,18 @@ Textures\UnderwaterCave|200,68,20,20|Textures\UnderwaterCave|160,48,16,16
 Textures\UnderwaterCave|220,68,20,20|Textures\UnderwaterCave|176,48,16,16
 
 [OldWater_Generic]
-Textures\Routes|0,240,20,20|Textures\Routes|0,240,16,16
-Textures\Routes|20,240,20,20|Textures\Routes|16,240,16,16
-Textures\Routes|40,240,20,20|Textures\Routes|32,240,16,16
-Textures\Routes|60,240,20,20|Textures\Routes|48,240,16,16
-Textures\Routes|80,240,20,20|Textures\Routes|64,240,16,16
-Textures\Routes|100,240,20,20|Textures\Routes|80,240,16,16
-Textures\Routes|120,240,20,20|Textures\Routes|96,240,16,16
-Textures\Routes|140,240,20,20|Textures\Routes|112,240,16,16
-Textures\Routes|160,240,20,20|Textures\Routes|128,240,16,16
-Textures\Routes|180,240,20,20|Textures\Routes|144,240,16,16
-Textures\Routes|200,240,20,20|Textures\Routes|160,240,16,16
-Textures\Routes|220,240,20,20|Textures\Routes|176,240,16,16
+Textures\Routes|0,240,20,20|Textures\Water|0,0,16,16
+Textures\Routes|20,240,20,20|Textures\Water|16,0,16,16
+Textures\Routes|40,240,20,20|Textures\Water|32,0,16,16
+Textures\Routes|60,240,20,20|Textures\Water|48,0,16,16
+Textures\Routes|80,240,20,20|Textures\Water|64,0,16,16
+Textures\Routes|100,240,20,20|Textures\Water|80,0,16,16
+Textures\Routes|120,240,20,20|Textures\Water|96,0,16,16
+Textures\Routes|140,240,20,20|Textures\Water|112,0,16,16
+Textures\Routes|160,240,20,20|Textures\Water|128,0,16,16
+Textures\Routes|180,240,20,20|Textures\Water|144,0,16,16
+Textures\Routes|200,240,20,20|Textures\Water|160,0,16,16
+Textures\Routes|220,240,20,20|Textures\Water|176,0,16,16
 
 [Whirlpool]
 Textures\Routes|0,176,16,16|Textures\Whirlpool|0,0,16,16
