@@ -75,10 +75,10 @@ Textures\Routes|200,240,20,20|Textures\Routes|160,240,16,16
 Textures\Routes|220,240,20,20|Textures\Routes|176,240,16,16
 
 [Whirlpool]
-Textures\Routes|0,176,16,16|Textures\Water|0,0,16,16
-Textures\Routes|16,176,16,16|Textures\Water|16,0,16,16
-Textures\Routes|32,176,16,16|Textures\Water|32,0,16,16
-Textures\Routes|48,176,16,16|Textures\Water|48,0,16,16
+Textures\Routes|0,176,16,16|Textures\Whirlpool|0,0,16,16
+Textures\Routes|16,176,16,16|Textures\Whirlpool|16,0,16,16
+Textures\Routes|32,176,16,16|Textures\Whirlpool|32,0,16,16
+Textures\Routes|48,176,16,16|Textures\Whirlpool|48,0,16,16
 
 [Waterfall]
 Textures\Routes|208,160,16,16|Textures\Waterfall|0,0,16,16
