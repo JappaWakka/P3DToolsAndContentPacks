@@ -1,4 +1,4 @@
-# Content Packs & Tools for Pokémon 3D https://pokemon3d.net/
+<img width="2560" height="1440" alt="2025-10-09_10 25 03" src="https://github.com/user-attachments/assets/876c2b55-0c32-4230-80e7-fad7845cd23a" /># Content Packs & Tools for Pokémon 3D https://pokemon3d.net/
 ## Development Tools
 * **Notepad++ Script & Map Syntax** Syntax Highlighting for Script & Map files (*.dat*), compatible with Pokémon 3D
 * **XNB Tools** Various tools to help you with extracting, modifying and compiling XNA content (*.xnb*)
@@ -8,9 +8,13 @@
 * **GameBoyPack_SoundEffects** Better quality GBC-style SFX & High Quality Cries for Pokémon 3D
 * **HGSSMusicPack** Music & Sound Effects from HGSS, XY, MD and FRLG
 * **StadiumCries** Cries for Pokémon #001-#251 from Pokémon Stadium (N64)
+* **Sky Texture Pack** Prettier skies for Pokémon 3D
 
 ## Previews of ContentPack *GameBoyPack_Textures*:
 ![PokéCenter](https://user-images.githubusercontent.com/31563291/166961748-bd343fcf-4e2d-4321-904d-0115e6795d11.png)
-![New Bark Town](https://user-images.githubusercontent.com/31563291/235084082-e493de3e-4fe6-4f0a-bcaa-4a1858f8ea68.png)
-![Snorlax](https://user-images.githubusercontent.com/31563291/235084749-d29287ad-b9d2-4b7a-80c3-3e893cf9e6b1.png)
-![Trainer Card](https://user-images.githubusercontent.com/31563291/235084249-51199020-fd8f-4c8c-9617-129cf6bbf228.png)
+![New Bark Town](https://github.com/user-attachments/assets/0d44d85a-1ad3-41ad-8ad1-2741fcc60ce5)
+![Snorlax](https://github.com/user-attachments/assets/0d2fa576-25f0-4827-b482-b2ec16efbc89)
+![Trainer Card](https://github.com/user-attachments/assets/5b11c51d-6519-41da-bae9-976ce8ca72f5)
+
+## Previews of ContentPack *Sky Texture Pack*:
+<img width="2560" height="1440" alt="SkyTexturePack" src="https://github.com/user-attachments/assets/3a6d9277-3b8e-41ce-a5b8-12ef58bba2b0" />
