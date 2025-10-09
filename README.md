@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="2025-10-09_10 25 03" src="https://github.com/user-attachments/assets/876c2b55-0c32-4230-80e7-fad7845cd23a" /># Content Packs & Tools for Pokémon 3D https://pokemon3d.net/
+# Content Packs & Tools for Pokémon 3D https://pokemon3d.net/
 ## Development Tools
 * **Notepad++ Script & Map Syntax** Syntax Highlighting for Script & Map files (*.dat*), compatible with Pokémon 3D
 * **XNB Tools** Various tools to help you with extracting, modifying and compiling XNA content (*.xnb*)
