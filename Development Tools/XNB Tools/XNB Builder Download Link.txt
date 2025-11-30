@@ -1,0 +1,7 @@
+https://github.com/mediaexplorer74/XNBBuilder/releases/latest
+
+Before you can use the software in the XNBBuilder.zip file, do the following:
+
+Please install XNA Game Studio Special Edition that is located in the XnaForVS2022 folder inside XnaForVS2022.zip (that file can be downloaded on the same page as XNB Builder).
+
+To do the whole setup process of XNA Game Studio, you need to perform all 5 steps in XnaForVS2022/README.TXT.
