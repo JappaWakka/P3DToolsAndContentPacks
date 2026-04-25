@@ -1,4 +1,4 @@
-https://github.com/mediaexplorer74/XNBBuilder/releases/latest
+https://github.com/JappaWakka/XNBBuilder/releases/latest
 
 Before you can use the software in the XNBBuilder.zip file, do the following:
 
