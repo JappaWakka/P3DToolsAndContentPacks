@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 <NotepadPlus>
     <UserLang name="Pokemon 3D Script (Dark)" ext="dat" udlVersion="2.1">
         <Settings>
@@ -88,6 +88,7 @@ Debug
 Defix
 Delay
 Delete
+DisableAbilities
 Donation
 DoWalkAnimation
 EndNewGame
