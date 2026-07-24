@@ -470,6 +470,7 @@ System.ChooseRandom
 System.Contains
 System.DayOfYear
 System.FileExists
+System.GamepadButton
 System.InSightScript
 System.IsInt
 System.IsSng
